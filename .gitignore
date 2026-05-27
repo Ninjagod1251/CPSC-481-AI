@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+
+# Copyrighted textbook copies — kept locally only
+AI_textbook*.pdf
+
+# Syllabi (may contain instructor contact info)
+*Syllabus*.pdf
+*syllabus*.pdf
